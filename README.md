@@ -9,3 +9,8 @@ Sou um desenvolvedor web em formação e tenho como principal objetivo adquirir 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="60" height="50" >
 <hr></hr>
 
+<style>
+  img {
+    display: inline;
+  }
+</style>
