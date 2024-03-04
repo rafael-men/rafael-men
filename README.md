@@ -1,16 +1,25 @@
-<h1>Rafael Menezes</h1>
-<hr></hr>
-Sou um desenvolvedor web em formação e tenho como principal objetivo adquirir bastante experiência para ajudar no meu futuro profissional e me destacar no mercado de trabalho. 
-<hr></hr>
-<h1>Minhas Tecnologias</h1>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="50" height="90">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="60" height="50" >
-<hr></hr>
+Hello World I'm Rafael!
 
-<style>
-  img {
-    display: inline;
-  }
-</style>
+ <hr>
+
+:computer: I'm Full Stack Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning Angular.js.
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafael-men)](https://github.com/rafael-men)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-menezes-58a6b3274/)](https://www.linkedin.com/in/rafael-menezes-58a6b3274/)
+
+- Thanks for visiting.
+
+----------------------------------------------------------------------------------
+
+<h1>Languages and Tools</h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
