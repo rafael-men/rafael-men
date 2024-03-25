@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Angular.js.
+:books: I’m currently Studying...
  
 
 ## About me
