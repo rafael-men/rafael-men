@@ -2,7 +2,7 @@
 
  <hr>
 
-:computer: I'm Full Stack Developer!
+:computer: I'm a Back End Developer!
 
 :house_with_garden: I’m from Brazil.
 
@@ -31,7 +31,9 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![github](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=coffeescript&logoColor=white)
+![image]((https://img.shields.io/badge/java-557C94.svg?style=for-the-badge&logo=openjdk&logoColor=white))
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 
 
