@@ -1,4 +1,4 @@
-<hr.
+<hr>
 ![Hello, my name is rafael](https://github.com/rafael-men/rafael-men/assets/132140932/764869be-f7f8-4f90-9870-78422d273cd3)
 <hr>
 
