@@ -1,4 +1,4 @@
-------------------------------------- WELCOME ---------------------------------------------
+<hr>
 
 ![octocat-1713904065318](https://github.com/rafael-men/rafael-men/assets/132140932/05bc0a0e-c6b7-43e6-9472-7b4dfca8a451)
 
@@ -47,7 +47,7 @@
 
 <div>
 <a href="https://github.com/rafael-men">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ![rafael-men GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=radical)
