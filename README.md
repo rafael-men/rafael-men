@@ -1,5 +1,4 @@
-<hr>
-![Hello, my name is rafael](https://github.com/rafael-men/rafael-men/assets/132140932/2af8af4c-1521-4e4c-8ee9-c8a24fa8dd35)
+![Hello, my name is rafael](https://github.com/rafael-men/rafael-men/assets/132140932/fa7803c7-d385-43f8-bcb0-c4a444403be5)
 <hr>
 
 ![octocat-1713904065318](https://github.com/rafael-men/rafael-men/assets/132140932/05bc0a0e-c6b7-43e6-9472-7b4dfca8a451)
