@@ -1,4 +1,4 @@
-----------------------------------------------------------------------------------
+------------------------------------- WELCOME ---------------------------------------------
 
 ![octocat-1713904065318](https://github.com/rafael-men/rafael-men/assets/132140932/05bc0a0e-c6b7-43e6-9472-7b4dfca8a451)
 
@@ -7,13 +7,14 @@
 
  <hr>
 
-:computer: I'm a Back End Developer!
+:computer: Back End Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently Studying...
- 
+:books: I have a solid knowledge in Java and Javascript
 
+:books: I've been developing projects for myself
+ 
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafael-men)](https://github.com/rafael-men)
@@ -48,6 +49,8 @@
 <a href="https://github.com/rafael-men">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+![rafael-men GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=radical)
 
 ----------------------------------------------------------------------------------
 
