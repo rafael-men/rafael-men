@@ -1,6 +1,5 @@
 
 
-![octocat-1715050190691](https://github.com/rafael-men/rafael-men/assets/132140932/c2e6f5f6-2f99-4769-a08e-63935cba4995)
 
 
 <h1>Rafael Menezes</h1>
