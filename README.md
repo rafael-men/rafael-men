@@ -7,13 +7,13 @@
 
  <hr>
 
-:computer: Back End Developer
+:computer: Desenvolvedor Back End
 
 :house_with_garden: I’m from Brazil.
 
-:books: I have a solid knowledge in Java and Javascript...
+:books: Utilizo Java e Javascript
  
-## About me
+## Sobre
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafael-men)](https://github.com/rafael-men)
 
@@ -23,7 +23,7 @@
 
 ----------------------------------------------------------------------------------
 
-<h1>Languages and Tools</h1>
+<h1>Linguagens e Tecnologias</h1>
 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -57,4 +57,4 @@
 
 ----------------------------------------------------------------------------------
 
-- Thanks for visiting.
+- Agradeço a visita.
