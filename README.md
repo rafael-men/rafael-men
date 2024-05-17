@@ -74,12 +74,8 @@ Contato - +55 79 99177-1914
     </td>
     <td>
       <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=irafael-men&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
+
+   </td>
   </tr>
 </table>
 
