@@ -61,14 +61,14 @@ Contato - +55 79 99177-1914
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?rafael-men=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=rafael-men&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?rafael-men=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -76,7 +76,7 @@ Contato - +55 79 99177-1914
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?username=rafael-men&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
