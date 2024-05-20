@@ -59,11 +59,6 @@ Contato - +55 79 99177-1914
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=rafael-men&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
     </td>
     <td> 
    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&langs_count=7&theme=dracula"/>
