@@ -57,8 +57,7 @@ Contato - +55 79 99177-1914
 ### ⚙️ GitHub Analytics
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=donut)](https://github.com/rafael-men/github-readme-stats)
-
-
+   ![rafael-men's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=transparent)
 
 ----------------------------------------------------------------------------------
 
