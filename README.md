@@ -11,7 +11,7 @@
 
 :house_with_garden: Aracaju - Sergipe - Brasil.
 
-:books: Minhas principais tecnologias são Java, Spring Framework, JavaScript e Node.js.
+:books: Minhas principais tecnologias são Java, Spring Framework, JavaScript e React.js.
  
 ## Sobre
 
@@ -57,6 +57,7 @@ Contato - +55 79 99177-1914
 <div>
 <a href="https://github.com/rafael-men">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&langs_count=7&theme=dracula"/>
+   ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </div>
 
 ----------------------------------------------------------------------------------
