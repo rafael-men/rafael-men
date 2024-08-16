@@ -47,9 +47,6 @@ Contato - +55 79 99177-1914
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
-
-
 ----------------------------------------------------------------------------------
 
 ### ⚙️ GitHub Analytics
@@ -58,8 +55,6 @@ Contato - +55 79 99177-1914
 <a href="https://github.com/rafael-men">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
- ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ----------------------------------------------------------------------------------
 
