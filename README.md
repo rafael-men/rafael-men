@@ -59,6 +59,8 @@ Contato - +55 79 99177-1914
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=radical)
+
 ----------------------------------------------------------------------------------
 
 - Agradeço a visita.
