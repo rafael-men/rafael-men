@@ -54,13 +54,10 @@ Contato - +55 79 99177-1914
 
 ### ⚙️ GitHub Analytics
 
-<div>
-<a href="https://github.com/rafael-men">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=donut-vertical&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafael)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ----------------------------------------------------------------------------------
