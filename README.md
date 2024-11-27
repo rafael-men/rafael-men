@@ -5,8 +5,6 @@
 
 ## Rafael Menezes
 
- <hr>
-
 :computer: I'm a full-stack Developer with focus on back-end and server side applications.
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
@@ -50,8 +48,7 @@ Contato / Contact - +55 79 99177-1914
 ----------------------------------------------------------------------------------
 
 ###  GitHub Analytics  :gear:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=donut-vertical&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
