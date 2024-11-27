@@ -3,29 +3,31 @@
 ![Olá, me chamo Rafael](https://github.com/rafael-men/rafael-men/assets/132140932/64bf4097-1469-4475-ab38-863317179f4b)
 
 
-   <h1>Rafael Menezes</h1>
+## Rafael Menezes
 
  <hr>
 
-:computer: Desenvolvedor Back End
+:computer: I'm a full-stack Developer with focus on back-end and server side applications.
 
-:house_with_garden: Aracaju - Sergipe - Brasil.
+:house_with_garden: Aracaju - Sergipe - Brazil.
 
-:books: Minhas principais tecnologias são Java, Spring Framework, JavaScript e React.js.
+:books: My main technologies are Java and JavaScript.
+
+:school: Student at Universidade Tiradentes - UNIT
  
-## Sobre
+## Sobre / About :book:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafael-men)](https://github.com/rafael-men)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-menezes-58a6b3274/)](https://www.linkedin.com/in/rafael-menezes-58a6b3274/)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - rafaelgoncalves1822@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelgoncalves1822@gmail.com)
 
-Contato - +55 79 99177-1914
+Contato / Contact - +55 79 99177-1914
 
 ----------------------------------------------------------------------------------
 
-<h1>Linguagens e Tecnologias</h1>
+## Linguagens e Tecnologias / Languages and Technologies :wrench: 
 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -47,14 +49,12 @@ Contato - +55 79 99177-1914
 
 ----------------------------------------------------------------------------------
 
-### ⚙️ GitHub Analytics
-
+###  GitHub Analytics  :gear:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=donut-vertical&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=radical)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ----------------------------------------------------------------------------------
 
-- Agradeço a visita.
+- Agradeço a visita / Thank you for the visit.
