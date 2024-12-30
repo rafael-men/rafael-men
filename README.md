@@ -7,7 +7,7 @@
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
 
-:books: Minhas Principais Tecnologias são Java e JavaScript.
+:books: Minhas principais tecnologias são Java e JavaScript.
         (EN) - My main technologies are Java and JavaScript.
 
 :school: Estudante de Ciência da Computação na Universidade Tiradentes - UNIT.
