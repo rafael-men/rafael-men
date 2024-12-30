@@ -1,17 +1,20 @@
+# Rafael Menezes
 
+![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
 
-![Olá, me chamo Rafael](https://github.com/rafael-men/rafael-men/assets/132140932/64bf4097-1469-4475-ab38-863317179f4b)
-
-
-## Rafael Menezes
-
-:computer: I'm a full-stack Developer with focus on back-end and server side applications.
+:computer: Sou um Desenvolvedor Full-Stack com foco em Back-End e aplicações Server Side.
+           (EN) - I'm a full-stack Developer with focus on back-end and server side applications.
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
 
-:books: My main technologies are Java and JavaScript.
+:books: Minhas Principais Tecnologias são Java e JavaScript.
+        (EN) - My main technologies are Java and JavaScript.
 
-:school: Student at Universidade Tiradentes - UNIT
+:school: Estudante de Ciência da Computação na Universidade Tiradentes - UNIT.
+         (EN) Computer Science student at Universidade Tiradentes - UNIT.
+
+:computer: Faço projetos freelance
+           (EN) - I also do freelance works.
  
 ## Sobre / About :book:
 
