@@ -13,7 +13,7 @@
 :school: Estudante de Ciência da Computação na Universidade Tiradentes - UNIT.
          (EN) Computer Science student at Universidade Tiradentes - UNIT.
 
-:computer: Faço projetos freelance
+:computer: Faço projetos freelance.
            (EN) - I also do freelance works.
  
 ## Sobre / About :book:
