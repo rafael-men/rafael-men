@@ -23,7 +23,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafael-men)](https://github.com/rafael-men)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-menezes-58a6b3274/)](https://www.linkedin.com/in/rafael-menezes-58a6b3274/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](rafaelgoncalves1822@gmail.com)
+[![Gmail ](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](rafaelgoncalves1822@gmail.com)
 
 Contato / Contact - +55 79 99177-1914
 
