@@ -1,4 +1,6 @@
-# Rafael Menezes Gonçalves
+<center>
+  # Rafael Menezes Gonçalves
+</center>
 
 ![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
 
@@ -50,15 +52,11 @@ Contato / Contact - +55 79 99177-1914
 ----------------------------------------------------------------------------------
 
 ###  GitHub Analytics  :gear:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&theme=dracula&langscount=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact&theme=dracula&langscount=10)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula)]
-
-
-
-
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula)
 
 ----------------------------------------------------------------------------------
 
