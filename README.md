@@ -54,7 +54,7 @@ Contato / Contact - +55 79 99177-1914
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rafael-men1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rafael-men)]
 
 
 
