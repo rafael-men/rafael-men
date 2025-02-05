@@ -1,6 +1,6 @@
-<p align="center" >
+<h1 align="center" >
   Rafael Menezes Gonçalves
-</p>
+</h1>
 
 
 ![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
@@ -50,7 +50,7 @@ Contato / Contact - +55 79 99177-1914
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 
 ###  GitHub Analytics  :gear:
 <p align="center">
@@ -66,6 +66,7 @@ Contato / Contact - +55 79 99177-1914
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" alt="analytics"/>
 </p>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<hr>
 
 - Agradeço a visita / Thank you for the visit.
