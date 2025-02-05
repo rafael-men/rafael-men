@@ -1,0 +1,28 @@
+name: Snake Game Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza diariamente
+  workflow_dispatch: # Permite iniciar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Clonar o repositório
+        uses: actions/checkout@v2
+
+ 
+      - name: Gerar a animação da cobrinha
+        uses: Platane/snk@master
+        with:
+          github_user_name: rafael-men
+
+      # Fazer upload do SVG gerado
+      - name: Upload do SVG
+        uses: actions/upload-artifact@v2
+        with:
+          name: github-contribution-grid-snake
+          path: dist/github-contribution-grid-snake.svg
