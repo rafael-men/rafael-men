@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
+      # Clonar o repositório
       - name: Clonar o repositório
         uses: actions/checkout@v2
 
- 
+      # Gerar a animação da cobrinha
       - name: Gerar a animação da cobrinha
         uses: Platane/snk@master
         with:
-          github_user_name: rafael-men
+          github_user_name: SEU_USUARIO # Substitua pelo seu nome de usuário no GitHub
 
-      # Fazer upload do SVG gerado
-      - name: Upload do SVG
-        uses: actions/upload-artifact@v2
+      # Fazer upload da animação gerada
+      - name: Fazer upload da animação
+        uses: actions/upload-artifact@v3
         with:
           name: github-contribution-grid-snake
           path: dist/github-contribution-grid-snake.svg
