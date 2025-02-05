@@ -1,6 +1,7 @@
-<center>
-  # Rafael Menezes Gonçalves
-</center>
+<p align="center" >
+  Rafael Menezes Gonçalves
+</p>
+
 
 ![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
 
@@ -53,8 +54,9 @@ Contato / Contact - +55 79 99177-1914
 
 ###  GitHub Analytics  :gear:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&theme=dracula" alt="Top Langs" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&theme=dracula" alt="Top Langs" width="40%" />
 </p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula)
