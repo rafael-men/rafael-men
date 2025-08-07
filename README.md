@@ -16,8 +16,8 @@
 :school: Estudante de Ciência da Computação na Universidade Tiradentes - UNIT.
          (EN) - Computer Science student at Universidade Tiradentes - UNIT.
 
-:computer: Faço projetos freelance.
-           (EN) - I also do freelance works.
+:computer: Atualmente trabalho como Desenvolvedor Jr na empresa de marketing digital Macfor.
+           (EN) - Actually i work as a Jr Software Dev at Macfor.
  
 ## Sobre / About :book:
 
