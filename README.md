@@ -5,8 +5,8 @@
 
 ![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
 
-:computer: Sou um Desenvolvedor Full-Stack com foco em Back-End e aplicações Server Side.
-           (EN) - I'm a full-stack Developer with focus on back-end and server side applications.
+:computer: Sou um Desenvolvedor Full-Stack com foco em back-End e servidores web. Esse é meu portfólio de projetos
+           (EN) - I'm a full-stack Developer with focus on back-end and web servers. This is my personal portfolio.
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
 
