@@ -65,15 +65,7 @@ Contato / Contact - +55 79 99177-1914
   
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&theme=dracula" 
-    height="180px"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula" 
-    height="180px"
-  />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&theme=tokyonight)
 
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" 
