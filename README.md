@@ -77,7 +77,7 @@ Contato / Contact - +55 79 99177-1914
 
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" 
-    height="180px"
+    height="180px" width="100%"
   />
 
   <img 
