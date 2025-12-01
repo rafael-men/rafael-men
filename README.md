@@ -60,10 +60,8 @@ Contato / Contact - +55 79 99177-1914
 <hr>
 
 ###  GitHub Analytics  :gear:
-<p align="center">
-  <a href="https://github.com/rafael-men" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
