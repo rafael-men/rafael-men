@@ -63,9 +63,9 @@ Contato / Contact - +55 79 99177-1914
 
 
   
-<div align="center">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&langs_count=10)]( https://github.com/rafael-men/github-readme-stats ) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&size_weight=0.5&count_weight=0.5)
 
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" 
@@ -77,7 +77,7 @@ Contato / Contact - +55 79 99177-1914
     width="100%"
   />
 
-</div>
+
 
 <hr>
 
