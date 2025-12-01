@@ -63,18 +63,29 @@ Contato / Contact - +55 79 99177-1914
 
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=donut&theme=dracula&langs_count=6" 
+    height="180px"
+  />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula" 
+    height="180px"
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=dracula" alt="analytics"/>
-</p>
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" 
+    height="180px"
+  />
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" alt="analytics"/>
-</p>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula" 
+    width="100%"
+  />
+
+</div>
 
 <hr>
 
