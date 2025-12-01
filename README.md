@@ -61,11 +61,7 @@ Contato / Contact - +55 79 99177-1914
 
 ###  GitHub Analytics  :gear:
 
-
-  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&size_weight=0.5&count_weight=0.5)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&layout=compact)
 
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" 
@@ -76,7 +72,6 @@ Contato / Contact - +55 79 99177-1914
     src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula" 
     width="100%"
   />
-
 
 
 <hr>
