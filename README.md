@@ -70,6 +70,10 @@ Contato / Contact - +55 79 99177-1914
     height="180px"
   />
   <img 
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" 
+    height="180px" width="100%"
+  />
+  <img 
     src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" 
     height="180px" width="100%"
   />
