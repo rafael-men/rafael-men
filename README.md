@@ -70,7 +70,7 @@ Contato / Contact - +55 79 99177-1914
     height="180px" width="100%"
   />
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-men&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=radical" 
     width="100%"
   />
 
