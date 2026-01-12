@@ -63,18 +63,5 @@ Contato / Contact - +55 79 99177-1914
 
 <hr>
 
-###  GitHub Analytics  :gear:
-
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=rafael-men&theme=dracula" 
-    height="180px" width="100%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rafael-men&show_icons=true&theme=radical" 
-    width="100%"
-  />
-
-
-<hr>
 
 - Agradeço a visita / Thank you for the visit.
