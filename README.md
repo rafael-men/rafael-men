@@ -5,8 +5,8 @@
 
 ![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
 
-:computer: Sou um Desenvolvedor Full-Stack com foco em back-End e servidores web. Esse é meu portfólio de projetos
-           (EN) - I'm a full-stack Developer with focus on back-end and web servers. This is my personal portfolio.
+:computer: Sou um Desenvolvedor Back-End com foco em Java. Esse é meu portfólio de projetos
+           (EN) - I'm a back-end Developer with focus on Java. This is my personal portfolio.
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
 
@@ -21,7 +21,6 @@
  
 ## Sobre / About :book:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafael-men)](https://github.com/rafael-men)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-menezes-58a6b3274/)](https://www.linkedin.com/in/rafael-menezes-58a6b3274/)
 [![Gmail ](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](rafaelgoncalves1822@gmail.com)
 
