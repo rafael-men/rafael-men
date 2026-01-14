@@ -5,13 +5,13 @@
 
 ![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
 
-:computer: Sou um Desenvolvedor Back-End com foco em Java. Esse é meu portfólio de projetos
-           (EN) - I'm a back-end Developer with focus on Java. This is my personal portfolio.
+:computer: Sou um Desenvolvedor back-end com foco em Java. Esse é meu portfólio de projetos
+           (EN) - I'm a back-end developer with focus on Java. This is my personal portfolio.
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
 
-:books: Minhas principais tecnologias são Java e JavaScript.
-        (EN) - My main technologies are Java and JavaScript.
+:books: Minhas principais tecnologias são Java e NodeJS.
+        (EN) - My main technologies are Java and NodeJS.
 
 :school: Estudante de Ciência da Computação na Universidade Tiradentes - UNIT.
          (EN) - Computer Science student at Universidade Tiradentes - UNIT.
