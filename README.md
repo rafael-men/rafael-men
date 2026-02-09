@@ -77,6 +77,4 @@ Contato / Contact - +55 79 99177-1914
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-men&langs_count=8)
-
 - Agradeço a visita / Thank you for the visit.
