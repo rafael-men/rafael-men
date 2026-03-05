@@ -5,19 +5,19 @@
 
 ![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
 
-:computer: Sou um Desenvolvedor back-end com foco em Java. Esse é meu portfólio de projetos
-           (EN) - I'm a back-end developer with focus on Java. This is my personal portfolio.
+:computer: Desenvolvedor de software com foco em Backend e Análise de Dados. Esse é meu portfólio de projetos
+           (EN) - I'm a back-end developer with focus on Backend and Data Analysis. This is my personal portfolio.
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
 
-:books: Minhas principais tecnologias são Java e NodeJS.
-        (EN) - My main technologies are Java and NodeJS.
+:books: Minhas principais tecnologias são Java, Python e Node.JS.
+        (EN) - My main technologies are Java, Python and Node.JS.
 
 :school: Estudante de Ciência da Computação na Universidade Tiradentes - UNIT.
          (EN) - Computer Science student at Universidade Tiradentes - UNIT.
 
-:computer: Atualmente trabalho como Desenvolvedor Jr na empresa Macfor.
-           (EN) - Actually i work as a Jr Software Dev at Macfor.
+:computer: Atualmente trabalho como Desenvolvedor Fullstack na empresa Macfor.
+           (EN) - At the moment i work as a Jr Fullstack Dev at Macfor.
  
 ## Sobre / About :book:
 
@@ -29,7 +29,7 @@ Contato / Contact - +55 79 99177-1914
 
 ----------------------------------------------------------------------------------
 
-## Linguagens e Tecnologias / Languages and Technologies :wrench: 
+## Tecnologias / Technologies :wrench: 
 
 ### Databases
 
