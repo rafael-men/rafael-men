@@ -77,10 +77,10 @@ Contato / Contact - +55 79 99177-1914
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafael-men&theme=cobalt&layout=compact&height=165" alt="Top Langs" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafael-men&theme=cobalt&layout=compact&height=165&count_private=true" alt="Top Langs" />
     </td>
     <td width="20px"></td> <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=rafael-men&show_icons=true&theme=cobalt&height=165" alt="Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=rafael-men&show_icons=true&theme=cobalt&height=165&hide_rank=true" alt="Stats" />
     </td>
   </tr>
 </table>
