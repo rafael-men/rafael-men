@@ -1,6 +1,3 @@
-<h1 align="center" >
-  Rafael Menezes Gonçalves
-</h1>
 
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/4800f076-af32-4747-80d9-fb7320302d45" />
 
