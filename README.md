@@ -2,8 +2,8 @@
   Rafael Menezes Gonçalves
 </h1>
 
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/4800f076-af32-4747-80d9-fb7320302d45" />
 
-![Olá, me chamo Rafael](https://github.com/user-attachments/assets/8f0d75e1-40d2-461a-930f-bf30c319a8e9)
 
 :computer: Desenvolvedor de software com foco em Backend e Análise de Dados. Esse é meu portfólio de projetos
            (EN) - I'm a back-end developer with focus on Backend and Data Analysis. This is my personal portfolio.
@@ -25,9 +25,7 @@
 
 [![Gmail ](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](rafaelgoncalves1822@gmail.com)
 
-Contato / Contact - +55 79 99177-1914
-
-----------------------------------------------------------------------------------
+- Contato / Contact - +55 79 99177-1914
 
 ## Tecnologias / Technologies :wrench: 
 
@@ -72,7 +70,7 @@ Contato / Contact - +55 79 99177-1914
 ![n8n](https://img.shields.io/badge/N8N-EE4C2C?style=for-the-badge)
 
 
-### Github Analytics
+## Github Analytics
 
 <table border="0">
   <tr>
@@ -84,7 +82,5 @@ Contato / Contact - +55 79 99177-1914
     </td>
   </tr>
 </table>
-
-<hr>
 
 - Agradeço a visita / Thank you for the visit.
