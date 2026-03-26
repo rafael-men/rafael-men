@@ -72,6 +72,10 @@ Contato / Contact - +55 79 99177-1914
 ![n8n](https://img.shields.io/badge/N8N-EE4C2C?style=for-the-badge)
 
 
+### Github Analytics
+
+![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005)
+
 <hr>
 
 - Agradeço a visita / Thank you for the visit.
