@@ -74,7 +74,7 @@ Contato / Contact - +55 79 99177-1914
 
 ### Github Analytics
 
-![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005)
+![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafael-men&theme=dark)
 
 <hr>
 
