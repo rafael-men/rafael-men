@@ -3,7 +3,7 @@
 
 
 :computer: Desenvolvedor de software com foco em Backend e Análise de Dados. Esse é meu portfólio de projetos
-           (EN) - I'm a back-end developer with focus on Backend and Data Analysis. This is my personal portfolio.
+           (EN) - I'm a Software developer with focus on Backend and Data Analysis. This is my personal portfolio.
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
 
