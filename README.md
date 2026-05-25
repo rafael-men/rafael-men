@@ -1,10 +1,7 @@
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/ecd0c11d-4c45-4c6a-a132-590c019c4651" />
 
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/4800f076-af32-4747-80d9-fb7320302d45" />
-
-
-
-:computer: Desenvolvedor de software com foco em Backend e Análise de Dados. Esse é meu portfólio de projetos
-           (EN) - I'm a Software developer with focus on Backend and Data Analysis. This is my personal portfolio.
+:computer: Desenvolvedor de software. Esse é meu portfólio de projetos
+           (EN) - I'm a Software developer. This is my personal portfolio.
 
 :house_with_garden: Aracaju - Sergipe - Brazil.
 
