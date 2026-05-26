@@ -11,8 +11,8 @@
 :school: Estudante de Ciência da Computação na Universidade Tiradentes - UNIT.
          (EN) - Computer Science student at Universidade Tiradentes - UNIT.
 
-:computer: Atualmente trabalho como Desenvolvedor Fullstack na empresa Macfor.
-           (EN) - At the moment i work as a Jr Fullstack Dev at Macfor.
+:computer: Atualmente trabalho como Desenvolvedor.
+           (EN) - At the moment i work as a Developer.
  
 ## Sobre / About :book:
 
