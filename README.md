@@ -16,8 +16,6 @@
 
 <br/>
 
-## Hey, I'm Rafael! 👋
-
 Software developer building some robust and scalable projects. Computer Science student at **Universidade Tiradentes (UNIT)**, based in Aracaju - SE, Brazil 🇧🇷.
 
 I work mainly with backend (Java and Node.js) and also have experience with frontend, data and cloud infrastructure.
