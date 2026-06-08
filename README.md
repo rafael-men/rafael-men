@@ -18,14 +18,13 @@
 
 ## Hey, I'm Rafael! 👋
 
-Software developer building robust and scalable systems. Computer Science student at **Universidade Tiradentes (UNIT)**, based in Aracaju - SE, Brazil 🇧🇷.
+Software developer building some robust and scalable projects. Computer Science student at **Universidade Tiradentes (UNIT)**, based in Aracaju - SE, Brazil 🇧🇷.
 
 I work mainly with backend (Java and Node.js) and also have experience with frontend, data and cloud infrastructure.
 
 - 🔭 Currently working as a Software Developer
 - 🌱 Deepening my knowledge in **Microservices Architecture**, **AI**  and **DevOps**
 - 💬 Ask me about **Java, Spring Boot, Node.js, Python**
-- 📫 Reach me at **rafaelgoncalves1822@gmail.com** or **+55 79 99177-1914**
 
 ---
 
