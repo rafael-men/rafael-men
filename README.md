@@ -1,28 +1,35 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/ecd0c11d-4c45-4c6a-a132-590c019c4651" />
+<div align="center">
+  <img width="100%" alt="github-header-banner" src="https://github.com/user-attachments/assets/ecd0c11d-4c45-4c6a-a132-590c019c4651" />
+</div>
 
-:computer: Desenvolvedor de software. Esse é meu portfólio de projetos
-           (EN) - I'm a Software developer. This is my personal portfolio.
+<br/>
 
-:house_with_garden: Aracaju - Sergipe - Brazil.
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-menezes-58a6b3274/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rafaelgoncalves1822@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rafael-men&style=flat-square&color=blue" alt="profile views" />
+</div>
 
-:books: Minhas principais tecnologias são Java, Python e Node.JS.
-        (EN) - My main technologies are Java, Python and Node.JS.
+<br/>
 
-:school: Estudante de Ciência da Computação na Universidade Tiradentes - UNIT.
-         (EN) - Computer Science student at Universidade Tiradentes - UNIT.
+## Hey, I'm Rafael! 👋
 
-:computer: Atualmente trabalho como Desenvolvedor.
-           (EN) - At the moment i work as a Developer.
- 
-## Sobre / About :book:
+Software developer building robust and scalable systems. Computer Science student at **Universidade Tiradentes (UNIT)**, based in Aracaju - SE, Brazil 🇧🇷.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-menezes-58a6b3274/)](https://www.linkedin.com/in/rafael-menezes-58a6b3274/)
+I work mainly with backend (Java and Node.js) and also have experience with frontend, data and cloud infrastructure.
 
-[![Gmail ](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](rafaelgoncalves1822@gmail.com)
+- 🔭 Currently working as a Software Developer
+- 🌱 Deepening my knowledge in **Microservices Architecture**, **AI**  and **DevOps**
+- 💬 Ask me about **Java, Spring Boot, Node.js, Python**
+- 📫 Reach me at **rafaelgoncalves1822@gmail.com** or **+55 79 99177-1914**
 
-- Contato / Contact - +55 79 99177-1914
+---
 
-## Tecnologias / Technologies :wrench: 
+## Technologies :wrench:
 
 ### Databases
 
@@ -57,25 +64,33 @@
 ![image](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![KUBE](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![image]( 	https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![pandas]( 	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![n8n](https://img.shields.io/badge/N8N-EE4C2C?style=for-the-badge)
 
+---
 
-## Github Analytics
+## 📊 Github Analytics
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafael-men&theme=cobalt&layout=compact&height=165&count_private=true" alt="Top Langs" />
-    </td>
-    <td width="20px"></td> <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=rafael-men&show_icons=true&theme=cobalt&height=165&hide_rank=true" alt="Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafael-men&theme=cobalt&layout=compact&height=165&count_private=true" alt="Top Langs" />
+      </td>
+      <td width="20px"></td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=rafael-men&show_icons=true&theme=cobalt&height=165&hide_rank=false" alt="Stats" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-men&theme=cobalt" alt="GitHub Streak" />
+</div>
 
-- Agradeço a visita / Thank you for the visit.
+---
+
+<div align="center">
+  <sub>Thank you for the visit 🚀</sub>
+</div>
