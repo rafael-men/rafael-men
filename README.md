@@ -83,7 +83,6 @@ I work mainly with backend (Java and Node.js) and also have experience with fron
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-men&theme=cobalt" alt="GitHub Streak" />
 </div>
 
 ---
