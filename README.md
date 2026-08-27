@@ -1,10 +1,4 @@
 <div align="center">
-  <img width="100%" alt="github-header-banner" src="https://github.com/user-attachments/assets/ecd0c11d-4c45-4c6a-a132-590c019c4651" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/rafael-menezes-58a6b3274/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
