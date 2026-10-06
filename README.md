@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=rafael-men&style=flat-square&color=blue" alt="profile views" />
 </div>
 <br/>
-Software Developer and Computer Science student at **Universidade Tiradentes (UNIT)**, based in Aracaju - SE, Brazil 🇧🇷.
+Software Developer and Computer Science student at <strong>Universidade Tiradentes (UNIT)</strong>, based in Aracaju - SE, Brazil 🇧🇷.
 
 I work mainly with backend (Java and Node.js) and also have experience with frontend, data and cloud infrastructure.
 
