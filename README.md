@@ -14,7 +14,6 @@ I work mainly with backend (Java and Node.js) and also have experience with fron
 
 - 🔭 Currently working as a Software Developer
 - 🌱 Deepening my knowledge in **Microservices Architecture**, **AI**  and **DevOps**
----
 
 ## Technologies :wrench:
 
