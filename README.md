@@ -7,17 +7,13 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=rafael-men&style=flat-square&color=blue" alt="profile views" />
 </div>
-
 <br/>
-
-Software developer building some robust and scalable projects. Computer Science student at **Universidade Tiradentes (UNIT)**, based in Aracaju - SE, Brazil 🇧🇷.
+Software Developer and Computer Science student at **Universidade Tiradentes (UNIT)**, based in Aracaju - SE, Brazil 🇧🇷.
 
 I work mainly with backend (Java and Node.js) and also have experience with frontend, data and cloud infrastructure.
 
 - 🔭 Currently working as a Software Developer
 - 🌱 Deepening my knowledge in **Microservices Architecture**, **AI**  and **DevOps**
-- 💬 Ask me about **Java, Spring Boot, Node.js, Python**
-
 ---
 
 ## Technologies :wrench:
