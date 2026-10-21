@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/743cea81-860b-41bb-ba7e-856a1bd53717" width="300" alt="gif" style="border: 3px solid #30104A; border-radius: 10px;>
+</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-menezes-58a6b3274/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -7,9 +10,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=rafael-men&style=flat-square&color=blue" alt="profile views" />
 </div>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/743cea81-860b-41bb-ba7e-856a1bd53717" width="400" alt="gif">
-</p>
 
 <br/>
 Software Developer and Computer Science student at <strong>Universidade Tiradentes (UNIT)</strong>, based in Aracaju - SE, Brazil 🇧🇷.
