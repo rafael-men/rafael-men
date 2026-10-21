@@ -1,9 +1,8 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/743cea81-860b-41bb-ba7e-856a1bd53717"
+    src="https://github.com/user-attachments/assets/ed8d068b-350f-4c26-b250-b54a96ef74b6"
     width="300"
     alt="gif"
-    style="border: 3px solid #30104A; border-radius: 10px;"
   >
 </p>
 <div align="center">
