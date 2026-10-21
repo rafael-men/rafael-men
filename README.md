@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/743cea81-860b-41bb-ba7e-856a1bd53717" width="300" alt="gif" style="border: 3px solid #30104A; border-radius: 10px;>
+  <img
+    src="https://github.com/user-attachments/assets/743cea81-860b-41bb-ba7e-856a1bd53717"
+    width="300"
+    alt="gif"
+    style="border: 3px solid #30104A; border-radius: 10px;"
+  >
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-menezes-58a6b3274/">
