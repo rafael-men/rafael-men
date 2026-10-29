@@ -14,14 +14,21 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=rafael-men&style=flat-square&color=blue" alt="profile views" />
 </div>
+---
 
-<br/>
-Software Developer and Computer Science student at <strong>Universidade Tiradentes (UNIT)</strong>, based in Aracaju - SE, Brazil 🇧🇷.
+Software Developer and Computer Science student at <strong>Universidade Tiradentes (UNIT)</strong>, based in Aracaju, Brazil 🇧🇷.
 
-I work mainly with backend (Java and Node.js) and also have experience with frontend, data and cloud infrastructure.
+I focus on backend development, building and maintaining APIs, business systems, and integrations using Java, Spring Boot, Node.js, and NestJS. I also have experience with frontend development, databases, cloud infrastructure, and process automation.
 
-- 🔭 Currently working as a Software Developer
-- 🌱 Deepening my knowledge in **Microservices Architecture**, **AI**  and **DevOps**
+🔭 Currently working as a Software Developer, developing and improving internal systems and integrations.
+
+🌱 Deepening my knowledge of Software Architecture, AI/LLM applications, and DevOps.
+
+🛠️ Interested in building scalable, maintainable, and reliable software.
+
+💡 Always curious, searching creative ideas, and different perspectives.
+
+🎸 Besides, I enjoy music, games, and exploring my interests.
 
 ## Technologies :wrench:
 
@@ -91,6 +98,4 @@ I work mainly with backend (Java and Node.js) and also have experience with fron
 
 ---
 
-<div align="center">
-  <sub>Thank you for the visit 🚀</sub>
-</div>
+<span>Thanks for Visiting</span>
