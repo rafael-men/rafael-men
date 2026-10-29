@@ -80,11 +80,11 @@ I work mainly with backend (Java and Node.js) and also have experience with fron
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafael-men&theme=cobalt&layout=compact&height=165&count_private=true" alt="Top Langs" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafael-men&theme=radical" alt="Top Langs" />
       </td>
       <td width="20px"></td>
       <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=rafael-men&theme=radical" alt="Stats" />
+        <img src="https://github-stats-extended.vercel.app/api/?username=rafael-men&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&custom_title=Rafaels+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Stats" />
       </td>
     </tr>
   </table>
