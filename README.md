@@ -17,15 +17,16 @@
 
 ---
 
-*Software Developer and Computer Science student at <strong>Universidade Tiradentes (UNIT)</strong>, based in Aracaju, Brazil 🇧🇷.
+## *Hi, i'm Rafael* 
 
-I focus on backend development, building and maintaining APIs, business systems, and integrations using Java, Spring Boot, Node.js, and NestJS. I also have experience with frontend development, databases, cloud infrastructure, and process automation.
+I focus on backend development, building and maintaining APIs, business systems, and integrations using **Java, Spring Boot, Node.js, and NestJS**. I also have experience with frontend development, databases, cloud infrastructure, and process automation.
 
-🔭 Currently working as a Software Developer, developing and improving internal systems and integrations.
-🌱 Deepening my knowledge of Software Architecture, AI/LLM applications, and DevOps.
-🛠️ Interested in building scalable, maintainable, and reliable software.
-💡 Always curious, searching creative ideas, and different perspectives.
-🎸 Besides, I enjoy music, games, and exploring my interests.
+- 🎓 Degree: Bachelor in Computer Science at **Universidade Tiradentes (UNIT)** based in ***Aracaju - SE - Brazil***
+- 🎯 Field: Front-End and Back-end development, DevOps, Cloud Engineering, AI.
+- 🔭 Currently working as a Back-end Developer.
+- 🌱 Deepening my knowledge of Software Architecture, AI/LLM applications, and DevOps.
+- 💡 Always curious, exploring creative ideas and different perspectives.
+- 🎸 Besides coding, I enjoy music, games, and exploring my interests.
 
 ## Technologies :wrench:
 
@@ -94,4 +95,4 @@ I focus on backend development, building and maintaining APIs, business systems,
 </div>
 
 
-<strong>Thanks for Visiting</strong>
+<strong align="center">Thanks for Visiting :)</strong>
