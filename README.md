@@ -76,15 +76,14 @@ I work mainly with backend (Java and Node.js) and also have experience with fron
 
 ## 📊 Github Analytics
 
-<div align="center">
-  <table border="0">
+ <div align="center">
+  <table>
     <tr>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafael-men&theme=radical" alt="Top Langs" />
+      <td width="50%" align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafael-men&theme=radical&layout=compact" alt="Linguagens mais utilizadas" />
       </td>
-      <td width="20px"></td>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api/?username=rafael-men&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&custom_title=Rafaels+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-stats-extended.vercel.app/api/?username=rafael-men&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&custom_title=Rafael's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage&hide=stars" alt="Estatísticas do GitHub" />
       </td>
     </tr>
   </table>
