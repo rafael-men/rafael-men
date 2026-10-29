@@ -22,7 +22,7 @@
 I focus on backend development, building and maintaining APIs, business systems, and integrations using **Java, Spring Boot, Node.js, and NestJS**. I also have experience with frontend development, databases, cloud infrastructure, and process automation.
 
 - 🎓 Degree: Bachelor in Computer Science at **Universidade Tiradentes (UNIT)** based in ***Aracaju - SE - Brazil***
-- 🎯 Field: Front-End and Back-end development, DevOps, Cloud Engineering, AI.
+- 🎯 Field: Front-End and Back-end development, Architecture, DevOps, Cloud Engineering, AI.
 - 🔭 Currently working as a Back-end Developer.
 - 🌱 Deepening my knowledge of Software Architecture, AI/LLM applications, and DevOps.
 - 💡 Always curious, exploring creative ideas and different perspectives.
@@ -102,4 +102,6 @@ I focus on backend development, building and maintaining APIs, business systems,
   </picture>
 </p>
 
-<strong align="center">Thanks for Visiting :)</strong>
+<p align="center">
+  <strong>Thanks for Visiting :)</strong>
+</p>
