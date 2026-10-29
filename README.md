@@ -84,7 +84,7 @@ I work mainly with backend (Java and Node.js) and also have experience with fron
       </td>
       <td width="20px"></td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=rafael-men&show_icons=true&theme=cobalt&height=165&hide_rank=false" alt="Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=rafael-men&show_icons=true&theme=monokai" alt="Stats" />
       </td>
     </tr>
   </table>
